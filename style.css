@@ -19,8 +19,6 @@ body{
 img{
     opacity: 0.6;
     border-radius: 350px 350px 350px 350px;
-    width: 12rem;
-    height: auto;
 }
 
 h1{
@@ -36,12 +34,6 @@ h1{
     justify-content: center;
 }
 
-#image{
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-}
 
 .cnt{
     text-align: center;
