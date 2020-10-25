@@ -19,6 +19,8 @@ body{
 img{
     opacity: 0.6;
     border-radius: 350px 350px 350px 350px;
+    width: 20rem;
+    height: auto;
 }
 
 h1{
@@ -28,6 +30,13 @@ h1{
 }
 
 #countdown-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+#image{
     display: flex;
     flex-wrap: wrap;
     align-items: center;
