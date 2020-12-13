@@ -3,7 +3,7 @@ const hoursel = document.getElementById('hours');
 const minsel = document.getElementById('mins');
 const secel = document.getElementById('seconds');
 
-const bday = '30 Oct 2020';
+const bday = '30 Oct 2021';
 
 function countdown() {
     const birthday = new Date(bday);
